@@ -1,7 +1,6 @@
 # Set up imports
 import pathlib
 import csv
-import itertools
 
 # Set up file paths
 pybank_csv = pathlib.Path("budget_data.csv")
